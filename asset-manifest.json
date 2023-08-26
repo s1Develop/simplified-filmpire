@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/simplified-filmpire/static/css/main.334bdeb1.css",
+    "main.js": "/simplified-filmpire/static/js/main.775389a9.js",
+    "index.html": "/simplified-filmpire/index.html",
+    "static/media/search.svg": "/simplified-filmpire/static/media/search.31756135e20be822d9df64a9b3f8b1a1.svg",
+    "main.334bdeb1.css.map": "/simplified-filmpire/static/css/main.334bdeb1.css.map",
+    "main.775389a9.js.map": "/simplified-filmpire/static/js/main.775389a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.775389a9.js"
+  ]
+}
